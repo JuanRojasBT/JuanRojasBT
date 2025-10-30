@@ -5,10 +5,10 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <img src="https://img.shields.io/badge/Age-21-2f6690" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
-<img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=2f6690&style=flat" alt="JuanRojasDev" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JuanRojasDev.repoName" alt="JuanRojasDev" /> 
-<img src="https://img.shields.io/github/followers/JuanRojasDev?style=social" alt="JuanRojasDev" />
-<img src="https://img.shields.io/github/stars/JuanRojasDev?style=social" alt="JuanRojasDev" /> 
+<img src="https://komarev.com/ghpvc/?username=JuanRojasBT&label=Profile%20views&color=2f6690&style=flat" alt="JuanRojasBT" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JuanRojasBT.repoName" alt="JuanRojasBT" /> 
+<img src="https://img.shields.io/github/followers/JuanRojasBT?style=social" alt="JuanRojasBT" />
+<img src="https://img.shields.io/github/stars/JuanRojasBT?style=social" alt="JuanRojasBT" /> 
 </div>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
@@ -104,6 +104,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanRojasDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanRojasDev" width="43%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&locale=en&theme=tokyonight" alt="JuanRojasDev" width="56%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanRojasBT&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanRojasBT" width="43%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasBT&show_icons=true&locale=en&theme=tokyonight" alt="JuanRojasBT" width="56%" />
 </div>
